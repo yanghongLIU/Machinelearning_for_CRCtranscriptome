@@ -1,6 +1,6 @@
 # crctranscriptomeproject_ml
 
-This project is called Biomarker Discovery and Identification for Colorectal Cancer Regarding Gender Differences with Machine Learning Techniques,
+This project is Biomarker Discovery and Identification for Colorectal Cancer Regarding Gender Differences with Machine Learning Techniques,
 which is a master thesis written by YanghongLiu 
 
 Organization:  Karolinska Institutet, Stockholm University, Scilifelab
