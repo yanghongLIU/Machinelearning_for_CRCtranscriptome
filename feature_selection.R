@@ -1,12 +1,13 @@
 # this code was running for three different cohorts, data processing part is slightly different, user can adjust based on needs
 library(dplyr)
-fe_data <- read.csv('final.csv')
+#the input is the three cohorts of female, male and mixed-sex FPKM value csv file
+fe_data <- read.csv('female.csv')
 
-fe_data$num<-NULL
-fe_data$ID<-NULL
-fe_data$Gender<-NULL
+#the processing might be different, it depends on the csv file you are dealing with , the colname will be different
+fe_data$clin_info.gender<-NULL
+fe_data$patient_age<-NULL
 
-names(fe_data)[names(fe_data) == "Status"] <- "outcome"
+names(fe_data)[names(fe_data) == "clin_info.definition"] <- "outcome"
 
 fe$outcome<-as.factor(fe$outcome)
 
