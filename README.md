@@ -14,5 +14,5 @@ Tools used in this study: R, Python
 
 note:
 1. data preprocessing details including merging clinic and transcriptome information, seperating female and male cohort, converting rlog value, median normalization for survival analysis an so on will not be provided. Please email me if you have any question: genevieveyanghong@gmail.com
-2. PCA will be included in machine learningxxx.ipynb
+2. PCA, resampling and importance ranking will be included in machine learningxxx.ipynb
 3. the size of the data downloaded from TCGA is too large, the dataset for female and male cohorts are compressed and stored in the 'fpkm' file under 'data' file
