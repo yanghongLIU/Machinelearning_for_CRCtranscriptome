@@ -1,7 +1,7 @@
 # this code was running for three different cohorts, data processing part is slightly different, user can adjust based on needs
 library(dplyr)
 #the input is the three cohorts of female, male and mixed-sex FPKM value csv file
-fe_data <- read.csv('female.csv')
+fe_data <- read.csv('female_fpkm.csv')
 
 #the processing might be different, it depends on the csv file you are dealing with , the colname will be different
 fe_data$clin_info.gender<-NULL
