@@ -13,6 +13,6 @@ Codes for TCGA CRC transcriptome download, feature selection, machine learning, 
 Tools used in this study: R, Python
 
 note:
-1. data preprocessing details including merging clinic and transcriptome information, seperating female and male cohort, converting rlog value an so on  will not be provided. Please email me if you have any question: genevieveyanghong@gmail.com
+1. data preprocessing details including merging clinic and transcriptome information, seperating female and male cohort, converting rlog value, median normalization for survival analysis an so on will not be provided. Please email me if you have any question: genevieveyanghong@gmail.com
 2. PCA will be included in machine learningxxx.ipynb
 
