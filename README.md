@@ -12,7 +12,8 @@ Codes for TCGA CRC transcriptome download, feature selection, machine learning, 
 
 Tools used in this study: R, Python
 
-note:
-1. data preprocessing details including merging clinic and transcriptome information, seperating female and male cohort, converting rlog value, median normalization for survival analysis an so on will not be provided. Please email me if you have any question: genevieveyanghong@gmail.com
-2. PCA, resampling and importance ranking will be included in machine learningxxx.ipynb
-3. the size of the data downloaded from TCGA is too large, the dataset for female and male cohorts are compressed and stored in the 'fpkm' file under 'data' file
+NOTE:
+1. Data preprocessing detail for merging clinic and transcriptome information and dividing into female and male cohorts are provided in data processing.R file. Since the TCGA dataset is too large, even the compressed file is not able to be uploaded in github. The processed female and male datasets are not provided here. 
+2. Other data processing details including DEGs analysis with DESeq2, converting into rlog value for ML, median normalization for survival analysis an so on will not be provided. Please email me if you have any question: genevieveyanghong@gmail.com
+3. PCA, resampling and importance ranking will be included in machine learningxxx.ipynb
+
