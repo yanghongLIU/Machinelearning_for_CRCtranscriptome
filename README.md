@@ -15,7 +15,7 @@ datasets:
 TCGA-female cohort, TCGA-male cohort, Swedish mixed-gender cohort
 
 
-Feature selection: There are three different algorithms used for feature selection: Vita, Boruta and mRMR. They were combined to optimize the feature selectio results. 
+Feature selection: There are three different algorithms used for feature selection: Vita, Boruta and mRMR. They were combined to optimize the feature selection results. 
 
 
 NOTE:
