@@ -70,7 +70,7 @@ write.table(selected_fe1,file='33fpkm.csv',sep=',')
 dim(selected_fe1)
 
 
-# for selecting 1000 attributes using Boruta
+# for selecting 100 attributes using Boruta
 library(ranger)
 library(Boruta)
 
