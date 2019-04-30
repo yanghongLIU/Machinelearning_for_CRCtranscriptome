@@ -2,7 +2,7 @@
 
 This project is Biomarker Discovery and Identification for Colorectal Cancer Regarding Gender Differences with Machine Learning Techniques by Yanghong Liu.
 
-Organization:  Scilifelab, Stockholm University, Karolinska Institutet
+Organization:  Scilifelab, Stockholm University, Karolinska Institute
 
 In this study, the gene expression variances regarding gender discrepancy in colorectal cancer is explored by a series analysis 
 including correlation analysis, principle component analysis, machine learning modeling, cancer hallmarks analysis and survival analysis. 
