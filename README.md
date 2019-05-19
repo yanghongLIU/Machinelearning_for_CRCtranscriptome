@@ -23,4 +23,4 @@ NOTE:
 2. Other data processing details including DEGs analysis with DESeq2, converting into rlog value for ML, median normalization for survival analysis will not be provided. Please email me if you have any question on this: genevieveyanghong@gmail.com.
 3. PCA, resampling and importance ranking will be included in machine learningxxx.ipynb
 4.Processed datasets for machine learning and survival analysis are in file 'rlog for ML' and 'normalized dataset for survival analysis' under data file.
-5. Please adjust the code based on your own case. You might have some changes based on which kind of transcriptome value you are using. This project is only for guidance.
+5. Please adjust the code based on your own case. You might have some changes based on which kind of transcriptomic value you are using. This project is only for guide.
